@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogramming-background&psig=AOvVaw2C5o25SJod6MG_78NchGPz&ust=1699631641597000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDUi7Kjt4IDFQAAAAAdAAAAABAR
 <h1 align="center">Hi 👋, I'm Akinur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
