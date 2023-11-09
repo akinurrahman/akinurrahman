@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogramming-background&psig=AOvVaw2C5o25SJod6MG_78NchGPz&ust=1699631641597000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDUi7Kjt4IDFQAAAAAdAAAAABAR
+<img alt="cover" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fprogramming-background&psig=AOvVaw2C5o25SJod6MG_78NchGPz&ust=1699631641597000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNDUi7Kjt4IDFQAAAAAdAAAAABAR"/>
 <h1 align="center">Hi 👋, I'm Akinur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
