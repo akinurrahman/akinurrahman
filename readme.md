@@ -13,7 +13,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 - 📈 Contributed on a ERP project as a Frontend Developer
 
-- ❤️ Passionate about web development, learning backend, and freelancing
+- ❤️ Passionate about web development, learning backend
 
 - 💬 Ask me about anything [here](https://github.com/akinurrahman/akinurrahman/issues)
 
