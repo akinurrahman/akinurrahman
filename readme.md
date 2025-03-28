@@ -1,4 +1,4 @@
-<p align="center"><a href="https://your-portfolio-link.com"><img  alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
+<p align="center"><a href="https://your-portfolio-link.com"><img  alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" width="100%" /></a></p>
 
 <br />
 
@@ -53,12 +53,13 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 #### Top Repositories
 
+<p style="display:flex; gap:5px">
 <a  href="https://github.com/akinurrahman/digimart-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=digimart-client&theme=buefy" />
 </a>
-<div></div>
 <a  href="https://github.com/akinurrahman/digimart-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=digimart-server&theme=buefy" />
 </a>
+</p>
 
 
