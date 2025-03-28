@@ -34,7 +34,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 ## 🏆 GitHub Profile Summary
 
-<p align="center">
+<p>
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman" alt="GitHub Profile Summary" />
   </a>
