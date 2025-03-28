@@ -1,4 +1,4 @@
-<p align="center"><a href="https://your-portfolio-link.com"><img width="80%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
+<p align="center"><a href="https://your-portfolio-link.com"><img width="100%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
 
 <br />
 
