@@ -29,7 +29,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
   <img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
 </p>
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=akinurrahman&theme=buefy&hide_border=true" alt="GitHub Streak"/></a> | <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&theme=buefy&hide_border=true" /></a> |
+| <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=akinurrahman&theme=buefy&hide_border=true" alt="GitHub Streak"/></a> | <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&theme=buefy&langs_count=3&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## 🏆 GitHub Profile Summary
