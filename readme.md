@@ -1,4 +1,4 @@
-<p align="center"><a href="https://akinurrahman.com"><img width="80%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
+<p align="center"><a href="https://akinurrahman.com"><img width="100%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
 
 
 I'm a self-taught passionate Frontend-focused developer from India, with some knowledge of Backend. <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="20">
