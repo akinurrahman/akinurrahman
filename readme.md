@@ -34,7 +34,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 ### 🔥 GitHub Streak Stats
 
-<p align="center">
+<p>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=akinurrahman&theme=buefy&hide_border=true" alt="GitHub Streak"/>
   </a>
