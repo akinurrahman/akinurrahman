@@ -1,20 +1,18 @@
-<p align="center"><a href="https://your-portfolio-link.com"><img width="80%" alt="Hello, I'm Aki Nur Rahman!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://your-portfolio-link.com"><img width="80%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
 
 <br />
 
-I'm a self-taught passionate Frontend-focused developer from India, with some knowledge of Backend. 🇮🇳
+I'm a self-taught passionate Frontend-focused developer from India, with some knowledge of Backend.  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="15">
 
 **About me**
 
-- 💼 FrontEnd Developer & Freelancer
+- 💼 Frontend Fullstack Developer
 
-- 🏢 Founder of [TechIndika](https://your-company-link.com)
+- 🚀 Working with Next.js, React.js, TypeScript and Node.Js
 
-- 🚀 Working with Next.js, React.js, and Tailwind CSS
+- 📈 Contributed on a ERP project as a Frontend Developer
 
-- 📈 Built Linqsat Job Portal using the MERN stack, hosted on AWS EC2
-
-- ❤️ Passionate about web development, learning backend, and freelancing
+- ❤️ Passionate about web development, learning backend
 
 - 💬 Ask me about anything [here](https://github.com/akinurrahman/akinurrahman/issues)
 
