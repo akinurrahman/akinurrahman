@@ -1,4 +1,4 @@
-<p align="center"><a href="https://your-portfolio-link.com"><img width="100%" alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
+<p align="center"><a href="https://your-portfolio-link.com"><img  alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" /></a></p>
 
 <br />
 
@@ -29,12 +29,15 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
   
 </p>
 
-| <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akinurrahman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aki's github stats" /></a> | <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akinurrahman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aki's github stats" /></a>
+ | 
+
+<a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 🔥 GitHub Streak Stats
 
-<p align="center">
+<p >
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=akinurrahman&theme=buefy&hide_border=true" alt="GitHub Streak"/>
   </a>
@@ -42,7 +45,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 ### 🏆 GitHub Profile Summary
 
-<p align="center">
+<p >
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman" alt="GitHub Profile Summary" />
   </a>
