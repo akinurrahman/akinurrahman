@@ -29,10 +29,8 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
   
 </p>
 
-| <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akinurrahman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aki's github stats" /></a>
- | 
 
-<a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akinurrahman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aki's github stats" /></a> | <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 🔥 GitHub Streak Stats
