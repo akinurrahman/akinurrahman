@@ -7,7 +7,7 @@
 <br />
 
 I'm a self-taught passionate Frontend-focused developer from India, with some knowledge of Backend.  
-<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="15">
+<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"  alt="Indian Flag" width="15">
 
 ## About Me
 
