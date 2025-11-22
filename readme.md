@@ -43,10 +43,10 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 ## 🚀 Top Repositories
 
 <p style="display:flex; gap:5px">
-<a href="https://github.com/akinurrahman/digimart-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=digimart-client&theme=buefy" />
+<a href="https://github.com/akinurrahman/next-auth-starter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=next-auth-starter&theme=buefy" />
 </a>
-<a href="https://github.com/akinurrahman/digimart-server">
+<!-- <a href="https://github.com/akinurrahman/digimart-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=digimart-server&theme=buefy" />
-</a>
+</a> -->
 </p>
