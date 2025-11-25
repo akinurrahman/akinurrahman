@@ -49,4 +49,5 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 <a href="https://github.com/akinurrahman/inventory-management-system-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=inventory-management-system-client&theme=buefy" />
 </a>
+
 </p>
