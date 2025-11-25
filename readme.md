@@ -46,7 +46,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 <a href="https://github.com/akinurrahman/next-auth-starter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=next-auth-starter&theme=buefy" />
 </a>
-<!-- <a href="https://github.com/akinurrahman/digimart-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=digimart-server&theme=buefy" />
-</a> -->
+<a href="https://github.com/akinurrahman/inventory-management-system-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akinurrahman&repo=inventory-management-system-client&theme=buefy" />
+</a>
 </p>
