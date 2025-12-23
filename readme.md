@@ -13,7 +13,7 @@ I'm a self-taught passionate Frontend-focused developer from India, with some kn
 
 - 💼 Frontend Fullstack Developer  
 - 🚀 Working with Next.js, React.js, TypeScript, and Node.js  
-- 📈 Contributed to an ERP project as a Frontend Developer  
+- 📈 Led end-to-end frontend development across two ERP systems  
 - ❤️ Passionate about web development, learning backend  
 - 💬 Ask me about anything [here](https://github.com/akinurrahman/akinurrahman/issues)  
 
