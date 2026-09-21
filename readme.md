@@ -23,8 +23,9 @@ Next.js on the front, NestJS and PostgreSQL on the back, deployed on my own VPS.
 ## Tech stack
 
 <picture>
-  <source media="(min-width: 768px)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,prisma,mongodb,docker,nginx,tailwind,linux,git&perline=15">
-  <img alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, Prisma, MongoDB, Docker, Nginx, Tailwind CSS, Linux, Git" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,prisma,mongodb,docker,nginx,tailwind,linux,git&perline=5" width="100%">
+  <!-- Commas are percent-encoded: a bare comma in srcset splits the URL into image candidates. -->
+  <source media="(min-width: 768px)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cprisma%2Cmongodb%2Cdocker%2Cnginx%2Ctailwind%2Clinux%2Cgit&perline=15">
+  <img alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, Prisma, MongoDB, Docker, Nginx, Tailwind CSS, Linux, Git" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Cprisma%2Cmongodb%2Cdocker%2Cnginx%2Ctailwind%2Clinux%2Cgit&perline=5" width="100%">
 </picture>
 
 ## GitHub activity
