@@ -143,7 +143,10 @@ function render({ total, weeks }, s, t, L) {
     }
     week.forEach((d) => {
       const y = r2(gridY + d.weekday * step);
-      cells += `<rect x="${x}" y="${y}" width="${r2(cell)}" height="${r2(cell)}" rx="2" fill="${t.levels[d.level]}"><title>${d.count} on ${fmtDate(d.date)}</title></rect>`;
+      // Staggered by week so the grid sweeps in left to right. Only the cells carry
+      // a style attribute, so the `rect[style]` rule never touches the legend swatches.
+      const delay = (wi * 0.02).toFixed(2);
+      cells += `<rect x="${x}" y="${y}" width="${r2(cell)}" height="${r2(cell)}" rx="2" fill="${t.levels[d.level]}" style="animation-delay:${delay}s"><title>${d.count} on ${fmtDate(d.date)}</title></rect>`;
     });
   });
 
@@ -184,6 +187,9 @@ function render({ total, weeks }, s, t, L) {
   .big { font-size: 36px; font-weight: 700; letter-spacing: -0.5px; }
   .unit { font-size: 15px; font-weight: 400; fill: ${t.muted}; }
   .line { font-size: 14px; }
+  rect[style] { animation: in 0.4s ease-out backwards; }
+  @keyframes in { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { rect[style] { animation: none; } }
 </style>
 <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="12" fill="${t.bg}" stroke="${t.border}"/>
 <text x="${pad}" y="38" class="h">@${esc(USER)}, past 12 months</text>
