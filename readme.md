@@ -20,6 +20,28 @@ Next.js on the front, NestJS and PostgreSQL on the back, deployed on my own VPS.
 
 📬 &nbsp;Open to freelance projects. Say hi at [hello@akinurrahman.com](mailto:hello@akinurrahman.com)
 
+## Featured projects
+
+<a href="https://hrms.akinurrahman.com"><img src="./assets/project-hrms.svg" alt="HRMS: a fullstack HR platform for small teams" width="100%"></a>
+
+<a href="https://hrms.akinurrahman.com"><img src="https://img.shields.io/badge/Live_Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"></a>
+<a href="https://github.com/akinurrahman/hrms-client"><img src="https://img.shields.io/badge/Frontend-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Frontend code"></a>
+<a href="https://github.com/akinurrahman/hrms-api"><img src="https://img.shields.io/badge/Backend-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Backend code"></a>
+
+<!-- WALKTHROUGH CLIP. GitHub strips <video> and <iframe>, so player markup cannot be
+hand-written here. The only way to get a real inline player is GitHub's own upload:
+drag the .mp4 into a new issue comment (the upload fires on drop, no need to submit),
+copy the github.com/user-attachments/assets/... URL it returns, and paste that URL
+bare on its own line right here. Cap is 10MB on the free plan.
+
+  ffmpeg -i raw.mp4 -vf "scale=1280:-2,fps=30" -c:v libx264 -crf 30 -preset slow -an -movflags +faststart demo.mp4
+
+Fallback if the clip will not fit: a linked YouTube thumbnail. Not a player, just a
+clickable image, and hqdefault if maxresdefault 404s on a fresh upload.
+
+[![Watch the HRMS walkthrough](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
+-->
+
 ## Tech stack
 
 <picture>
