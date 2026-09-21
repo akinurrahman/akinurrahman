@@ -1,48 +1,37 @@
-<p align="center">
-  <a href="https://work.akinurrahman.com">
-    <img alt="Hello, I'm Akinur Rahman!" src="./assets/header.gif" width="100%" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.gif">
+  <img alt="Hello! I'm Akinur Rahman" src="./assets/header.gif" width="540" height="112">
+</picture>
 
-<br />
+Fullstack Engineer building ERP and business apps end to end.
+Next.js on the front, NestJS and PostgreSQL on the back, deployed on my own VPS.
 
-I'm a Fullstack Engineer from Assam, India. I build business software end to end, from the database and API to the UI people actually use every day.  
-<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" width="15">
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white)](https://akinurrahman.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akinurrahman) [![X](https://img.shields.io/badge/X-1F6FEB?style=flat-square&logo=x&logoColor=white)](https://x.com/heyakinur) [![Email](https://img.shields.io/badge/Email-1F6FEB?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@akinurrahman.com)
 
-## About Me
+## What I do
 
-- 💼 Fullstack Engineer at Techindika (remote)
-- 🏗️ End-to-end development across multiple ERP systems: accounting, HRMS, and admin dashboards
-- ⚙️ Building APIs with NestJS, Prisma, and PostgreSQL, including multi-tenant apps with role-based access
-- 🚀 Shipping frontends with Next.js, React, TypeScript, and TanStack Query
-- 🐧 Deploying my own apps on a VPS with Nginx, systemd, and Docker. No Vercel.
-- 🌐 Portfolio: [work.akinurrahman.com](https://work.akinurrahman.com)
-- 📫 Reach me: [hello@akinurrahman.com](mailto:hello@akinurrahman.com)
+💼 &nbsp;Built the frontend for 3 business systems at Techindika, including a multi-tenant HRMS and a college ERP
 
-## 🛠 Tech Stack
+🤖 &nbsp;Built the [frontend] for an AI agent platform that turns docs and APIs into an embeddable chat widget
 
-<p>
-  <img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-  <img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-  <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-  <img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png">
-  <img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="20" alt="nestjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png">
-  <img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png">
-  <img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
-  <img height="20" alt="prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-  <img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-  <img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-  <img height="20" alt="nginx" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png">
-</p>
+🧩 &nbsp;Build the hard parts of admin apps: role-based access, approval flows, and data-heavy tables
 
-| <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=akinurrahman&theme=buefy&hide_border=true" alt="GitHub Streak"/></a> | <a href="https://github.com/akinurrahman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinurrahman&theme=buefy&langs_count=3&hide_border=true" /></a> |
-| ------------- | ------------- |
+🐳 &nbsp;Self-host my apps on a Linux VPS with Nginx, Docker, and HTTPS
 
-## 🏆 GitHub Profile Summary
+📬 &nbsp;Open to freelance projects. Say hi at [hello@akinurrahman.com](mailto:hello@akinurrahman.com)
 
-<p>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akinurrahman" alt="GitHub Profile Summary" />
-  </a>
-</p>
+## Tech stack
+
+<picture>
+  <source media="(min-width: 768px)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,prisma,mongodb,docker,nginx,tailwind,linux,git&perline=15">
+  <img alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, Prisma, MongoDB, Docker, Nginx, Tailwind CSS, Linux, Git" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,prisma,mongodb,docker,nginx,tailwind,linux,git&perline=5" width="100%">
+</picture>
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (min-width: 768px)" srcset="./assets/stats-dark-wide.svg">
+  <source media="(min-width: 768px)" srcset="./assets/stats-light-wide.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <img alt="Akinur's GitHub activity" src="./assets/stats-light.svg" width="100%">
+</picture>
